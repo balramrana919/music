@@ -1,0 +1,17 @@
+.nav-top{
+    background-color: blue;
+}
+
+.nav-bottom{
+    background-color: rgb(121, 25, 212);
+}
+
+.nav-bottom li{
+    display: flex;
+    padding-left: 10px;
+    float: left;
+}
+
+.nav-bottom li:hover{
+    background-color: darkcyan;
+}
