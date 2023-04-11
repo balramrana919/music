@@ -9,10 +9,15 @@ export default function Header() {
       <div className="nav-bottom">
         <div className="nav-menu">
           <ul>
-            <li>Trending</li>
-            <li>popular</li>
-            <li>New</li>
-            <li>About</li>
+            <li>
+              <a href="./Trending">Trending</a>
+            </li>
+            <li>
+              <a href="./Popular">popular</a>
+            </li>
+            <li>
+              <a href="About.js">About</a>
+            </li>
             <li>Contact</li>
           </ul>
         </div>
